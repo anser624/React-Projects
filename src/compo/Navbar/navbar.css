@@ -1,0 +1,44 @@
+/* header{
+    display: flex;
+    justify-content: space-between;
+    padding: 1.5rem 6rem;
+    align-items: center;
+    font-family: sans-serif;
+}
+h2{
+    font-size: 2.2rem;
+}
+ul{
+    font-weight: 100;
+    font-size: 1.3rem;
+    display: flex;
+    gap: 2rem;
+    list-style-type: none;
+}
+.ul-btn{
+    display: flex;
+    align-items: center;
+    gap: 4rem;
+}
+.ul-btn button{
+    background-color: #8755de;
+    border: 1px solid grey;
+    border-radius: 5rem;
+    color: white;
+    font-size: 1.1rem;
+    padding: 0.7rem 1.5rem;
+}
+.ul-btn button:hover{
+    color: white;
+    filter: invert(1);
+    transition: all 0.7s ease-in-out;
+}
+.ul-btn button p:hover{
+    transition: all 0.5s ease-in-out;
+    transform: scale(1.1);
+    filter: invert(1)
+}
+img{
+    height: 3rem;
+    object-fit: contain;
+} */

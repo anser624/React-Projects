@@ -1,0 +1,12 @@
+
+.contact-input button{
+    border: 1px solid white;
+    font-weight: 200;
+    word-spacing: 2px;
+    border-radius: 1.5rem;
+    font-size: 1.2rem;
+    text-transform: capitalize;
+    color: white;
+    background-color: #8755de;
+    padding : 10px 30px;
+}

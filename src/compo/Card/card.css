@@ -1,0 +1,20 @@
+.card-btn{
+    border: 1px solid white;
+    margin-left: 10rem;
+    font-weight: 200;
+    word-spacing: 2px;
+    border-radius: 1.5rem;
+    font-size: 1rem;
+    text-transform: capitalize;
+    color: white;
+    background-color: #8755de;
+    padding: 1rem;
+    width: 20%;
+}
+.card-btn:hover{
+    font-weight: 500;
+    background-color: #8755de;
+    color: white;
+    filter: invert(1);
+    transition: all 0.7s ease-in-out;
+}
