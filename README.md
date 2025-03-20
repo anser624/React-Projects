@@ -1,12 +1,24 @@
-# React + Vite
+# React Landing Page - Built with React & Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 **Live Demo:** [neon-lollipop-3f76af.netlify.app](https://neon-lollipop-3f76af.netlify.app/)
 
-Currently, two official plugins are available:
+This is a **modern landing page** built using **React.js** and **Tailwind CSS**. The project is designed to be fast, and easy to customize.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📌 Features
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✅ **Fast & Lightweight** – Built with Vite for quick performance  
+✅ **Tailwind CSS Integration** – Clean and scalable styling  
+✅ **Reusable Components** – Modular structure for easy updates  
+
+---
+
+## 🛠 Installation & Setup
+
+Follow these steps to run the project locally:
+
+1. **Clone this repository**  
+   ```bash
+   git clone https://github.com/anser624/React-Projects.git
+   cd React-Projects
